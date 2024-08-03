@@ -1,7 +1,7 @@
 // events/ready.js
 const { REST, Routes, ActivityType } = require('discord.js'); // Import ActivityType
 const fs = require('fs');
-const status = "AUTOMATIC";
+const status = "IDLE";
 const botName = "Music Bot [ Distube ]";
 const Text = "GlaceYT";
 const version = "Latest@ v4.0"; 
